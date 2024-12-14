@@ -1,0 +1,6 @@
+ENDPOINTS
+1. /  - Shows nothing unless you define a route for it.
+
+2. /create-file	- Will not work, requires a POST request via Postman or any other testing applications.
+
+3. /files - Returns a JSON list of text files generated.
